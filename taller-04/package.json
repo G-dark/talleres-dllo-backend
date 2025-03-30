@@ -1,0 +1,23 @@
+{
+  "name": "taller4",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "\"taller4\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G-dark/talleres-dllo-backend.git"
+  },
+  "author": "Edison Pacheco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/G-dark/talleres-dllo-backend/issues"
+  },
+  "homepage": "https://github.com/G-dark/talleres-dllo-backend#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
